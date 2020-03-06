@@ -1,2 +1,0 @@
-# sharezza-social
-Project ShareZza
